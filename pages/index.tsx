@@ -188,9 +188,11 @@ export default function Home() {
           .footer {
             border-color: #222;
           }
+
           .code {
             background: #111;
           }
+
           .logo img {
             filter: invert(1);
           }
